@@ -1,0 +1,8 @@
+{
+  "name": "Sealocker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2066dc12"
+}
